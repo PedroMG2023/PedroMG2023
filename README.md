@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am a second-year computer engineering student at the National University of Engineering (UNI), 
+I am passionate about developing web and desktop software, and perhaps very soon video games.
+
+I took a CS50 course and I am currently still learning more technologies from the 
+CS50 course - programming with python and javascript
+
+I also like to continue learning and improving with each opportunity, especially when 
+I work as a team for events such as hackathons and rallies, 
+and any other opportunity I have, it is a pleasure to be able to help.
+
 <!--
 **PedroMG2023/PedroMG2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

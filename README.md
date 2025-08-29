@@ -10,7 +10,7 @@ I am passionate about web and desktop application development, as well as collab
 <br><br><br>
 ## 📚 Training and Courses
 - ✅ **CS50x – Introduction to Computer Science (Harvard / CS50.ni)**
-- - 📌 Actualmente cursando **CS50 Web Programming with Python and JavaScript (WEB50)**
+- - 📌 Currently enrolled in **CS50 Web Programming with Python and JavaScript (WEB50)**
 
 
 ## 🚀 Experience at CS50.ni

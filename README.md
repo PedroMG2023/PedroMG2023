@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1 align="center"><b>Hi , I'm Pedro Miranda </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 I am a second-year computer engineering student at the National University of Engineering (UNI), 
 I am passionate about developing web and desktop software, and perhaps very soon video games.

@@ -60,5 +60,5 @@ I am currently participating as a **Course Assistant** at CS50.ni, where:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ## 📫 Let's Connect
-- [LinkedIn](www.linkedin.com/in/pedro-josé-m-23b62635a)  
-- 📧 Email: devmgcoding03@gmail.com
+<a href="www.linkedin.com/in/pedro-josé-m-23b62635a" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="unsimpledev"/></a>
+<a href = "mailto:devmgcoding03@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@unsimpledev"  /></a>

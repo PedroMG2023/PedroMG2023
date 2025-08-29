@@ -10,7 +10,7 @@ I am passionate about web and desktop application development, as well as collab
 <br><br><br>
 ## 📚 Training and Courses
 - ✅ **CS50x – Introduction to Computer Science (Harvard / CS50.ni)**
-- - 📌 Currently enrolled in **CS50 Web Programming with Python and JavaScript (WEB50)**
+- 📌 Currently enrolled in **CS50 Web Programming with Python and JavaScript (WEB50)**
 
 
 ## 🚀 Experience at CS50.ni
@@ -27,8 +27,8 @@ I am currently participating as a **Course Assistant** at CS50.ni, where:
   - 🖧 LAN cable patching and local network support.  
   - 📦 Support in branches with installation and delivery of repaired equipment.
 
- <br>
-<h2> Languages and technologies I have used <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<br>
+<h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>  Languages and technologies I have used </h2>
 
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -53,31 +53,12 @@ I am currently participating as a **Course Assistant** at CS50.ni, where:
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
 
-## Currently Learning :beginner:
+## 🌱 Currently Learning
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-
-<!--I took a CS50 course and I am currently still learning more technologies from the 
-CS50 course - programming with python and javascript
-
-I also like to continue learning and improving with each opportunity, especially when 
-I work as a team for events such as hackathons and rallies, 
-and any other opportunity I have, it is a pleasure to be able to help. -->
-
-<!--
-**PedroMG2023/PedroMG2023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 Let's Connect
+- [LinkedIn](www.linkedin.com/in/pedro-josé-m-23b62635a)  
+- 📧 Email: devmgcoding03@gmail.com
